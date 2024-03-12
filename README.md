@@ -95,12 +95,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=el-idrisi&theme=dracula" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/315ztelwtvkkzlszxh7cmvdtjkyy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ztelwtvkkzlszxh7cmvdtjkyy&count=5" alt="Spotify recently played"  />
   </a>
